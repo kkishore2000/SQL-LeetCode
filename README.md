@@ -16,10 +16,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 
 | #  | Problem | Difficulty | Solution |
 |----|----------|------------|----------|
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Solution](./Easy/175_Combine_Two_Tables.sql) |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Solution](./Easy/176_Second_Highest_Salary.sql) |
-| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Solution](./Medium/177_Nth_Highest_Salary.sql) |
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | [Solution](./Hard/185_Department_Top_Three_Salaries.sql) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Solution](./Easy/175_combine_two_tables.sql) |
 
 ---
 
