@@ -20,6 +20,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 181 | [Employees Earning  More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Solution](./Easy/181_employees_earning_more_than_thier_manager.sql) |
 | 182 | [Dulpicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Solution](./Easy/182_duplicate_emails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Solution](./Easy/182_customers_who_never_order.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Solution](./Easy/196_delete_duplicate_emails.sql) |
 ---
 
 ## 🛠️ Skills Covered  
