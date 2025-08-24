@@ -22,6 +22,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Solution](./Easy/182_customers_who_never_order.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Solution](./Easy/196_delete_duplicate_emails.sql) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Solution](./Easy/197_rising_temperature.sql) |
+| 511 | [Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-ie/) | Easy | [Solution](./Easy/511_game_play_analysis_1.sql) |
 ---
 
 ## 🛠️ Skills Covered  
