@@ -24,6 +24,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Solution](./Easy/197_rising_temperature.sql) |
 | 511 | [Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Solution](./Easy/511_game_play_analysis_1.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | [Solution](./Easy/577_employee_bonus.sql) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Solution](./Easy/584_find_customer_referee.sql) |
 ---
 
 ## 🛠️ Skills Covered  
