@@ -21,6 +21,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 182 | [Dulpicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Solution](./Easy/182_duplicate_emails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Solution](./Easy/182_customers_who_never_order.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Solution](./Easy/196_delete_duplicate_emails.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Solution](./Easy/197_rising_temperature.sql) |
 ---
 
 ## 🛠️ Skills Covered  
