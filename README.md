@@ -28,7 +28,8 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 586 | [Find Customer Referee](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | Easy | [Solution](./Easy/586_customer_placing_the_largest_number_of_order.sql) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Solution](./Easy/595_big_countries.sql) |
 | 596 | [Classes With More Than 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | [Solution](./Easy/596_classes_with_atleast_5_students.sql) |
-| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Solution](./Easy/5607_sales_person.sql) |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Solution](./Easy/607_sales_person.sql) |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Solution](./Easy/610_triangle_judgement.sql) |
 ---
 
 ## 🛠️ Skills Covered  
