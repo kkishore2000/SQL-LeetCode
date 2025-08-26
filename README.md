@@ -30,6 +30,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 596 | [Classes With More Than 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | [Solution](./Easy/596_classes_with_atleast_5_students.sql) |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Solution](./Easy/607_sales_person.sql) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Solution](./Easy/610_triangle_judgement.sql) |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Solution](./Easy/619_biggest_single_number.sql) |
 ---
 
 ## 🛠️ Skills Covered  
