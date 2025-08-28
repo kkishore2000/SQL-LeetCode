@@ -37,6 +37,8 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [Solution](./Easy/1068_product_sales_analysis_1.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | [Solution](./Easy/1075_project_emplyees_1.sql) |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Solution](./Easy/1084_sales_analysis_3.sql) |
+| 1141 | [User Activity For The Past 30 Days 1](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Solution](./Easy/1141_user_activity_for_the_past_30_days_1.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Solution](./Easy/1148_article_views_1.sql) |
 ---
 
 ## 🛠️ Skills Covered  
