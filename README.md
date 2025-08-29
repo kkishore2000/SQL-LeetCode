@@ -39,6 +39,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Solution](./Easy/1084_sales_analysis_3.sql) |
 | 1141 | [User Activity For The Past 30 Days 1](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Solution](./Easy/1141_user_activity_for_the_past_30_days_1.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Solution](./Easy/1148_article_views_1.sql) |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Solution](./Easy/1179_reformat_department_table.sql) |
 ---
 
 ## 🛠️ Skills Covered  
