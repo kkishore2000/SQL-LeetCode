@@ -42,6 +42,7 @@ This repository contains my solutions to **LeetCode SQL problems**, categorized 
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Solution](./Easy/1179_reformat_department_table.sql) |
 | 1211 | [Reformat Department Table](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | [Solution](./Easy/1211_queries_quality_and_percentage.sql) |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Solution](./Easy/1251_average_selling_price.sql) |
+| 1280 | [Students And Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Solution](./Easy/1280_students_and_examinations.sql) |
 ---
 
 ## 🛠️ Skills Covered  
